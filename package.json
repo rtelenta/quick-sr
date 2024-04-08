@@ -1,0 +1,17 @@
+{
+  "name": "lightningroulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "mysql": "^2.18.1"
+  },
+  "type": "module"
+}
